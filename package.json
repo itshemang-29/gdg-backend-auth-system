@@ -1,0 +1,22 @@
+{
+  "name": "gdg-project",
+  "version": "1.0.0",
+  "description": "This project is a **Payment Reminder System** built for the GDG Web Dev Recruitment Backend Task. It allows users to manage their payment deadlines and receive automated email reminders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.5",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5"
+  }
+}
