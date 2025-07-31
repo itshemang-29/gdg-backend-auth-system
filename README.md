@@ -145,6 +145,11 @@ Status: Pending
 
 ---
 
+
+---
+❗ Note: Update and delete routes for payments were implemented but currently not functioning as expected. Due to limited time, I prioritized core features like registration, OTP auth, JWT protection, and payment creation, which are working perfectly.
+
+---
 ## ✨ Author
 
 **Hemang Jain**  
