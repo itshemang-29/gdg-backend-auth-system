@@ -124,6 +124,22 @@ npm start
 
 ---
 
+
+---
+
+📬 Cron Job
+Set to run every day at 8 AM
+
+Logic:
+
+Send reminder if deadline is in 2 days
+
+Reminder on the deadline day
+
+Alert and mark payment as overdue after deadline
+
+---
+
 ## 📬 Email Preview
 
 Example of a daily reminder email:
